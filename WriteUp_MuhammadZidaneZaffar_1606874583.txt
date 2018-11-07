@@ -1,0 +1,6 @@
+
+Muhammad Zidane Zaffar - 1606874583
+1. Fungsi dari BCryptPasswordEncoder adalah untuk melakukan hasing password sehingga password yang disimpan akan berubah formatnya dan hanya dimengerti oleh mesin
+Contoh yaitu password viktor123 menjadi seperti berikut $2a$10$1QQ9wOpr1dftJnGcd.nVF.av4QK5EAd589bXAV5UFwims5sFMKHIa
+
+2. Baris tersebut adalah untuk mengumpulkan semua otoritas – otoritas atau fungsi yang bisa dilakukan oleh role yang telah dibuat. Penggunaan GrantedAuthority membuat authority yang dibuat bersifat arbitrary
